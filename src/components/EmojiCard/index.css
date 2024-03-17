@@ -1,0 +1,16 @@
+/* Write your code here. */
+.eachCard {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  border: #ffffff33 1px solid;
+  background-color: #ffffff33;
+  padding: 20px;
+  margin: 20px;
+}
+.btn-set {
+  background-color: transparent;
+  border: 0;
+}
